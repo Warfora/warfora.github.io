@@ -23,8 +23,8 @@ Check out these parrot pictures:
 
 | **Macaw** | **Cockatiel** | **African Grey** |
 |----------|---------------|------------------|
-| ![Macaw](https://upload.wikimedia.org/wikipedia/commons/9/96/Macaw_blue_yellow.jpg) | ![Cockatiel](https://upload.wikimedia.org/wikipedia/commons/9/90/Nymphicus_hollandicus_2_Luc_Viatour.jpg) | ![African Grey](https://upload.wikimedia.org/wikipedia/commons/8/80/Psittacus_erithacus_-perching_on_tray-8a.jpg) |
-| [View](https://upload.wikimedia.org/wikipedia/commons/9/96/Macaw_blue_yellow.jpg) | [View](https://upload.wikimedia.org/wikipedia/commons/9/90/Nymphicus_hollandicus_2_Luc_Viatour.jpg) | [View](https://upload.wikimedia.org/wikipedia/commons/8/80/Psittacus_erithacus_-perching_on_tray-8a.jpg) |
+| ![Macaw](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPhaVBrdIFbnds94s0odD6tQHR8u5hIECmw&s) | ![Cockatiel](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeIlH2SfE1bWZj1q8d3FneCjCnub5fgsYdG7Ykee8SmTrWdNZo4j-3_z6Q7zclI4I7_lVXrXCHTTvZBqOWza4lKQ) | ![African Grey](https://i.ytimg.com/vi/C4Pdv2KqNnM/maxresdefault.jpg) |
+| [View](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPhaVBrdIFbnds94s0odD6tQHR8u5hIECmw&s) | [View](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeIlH2SfE1bWZj1q8d3FneCjCnub5fgsYdG7Ykee8SmTrWdNZo4j-3_z6Q7zclI4I7_lVXrXCHTTvZBqOWza4lKQ) | [View](https://i.ytimg.com/vi/C4Pdv2KqNnM/maxresdefault.jpg) |
 
 ---
 
@@ -36,3 +36,4 @@ function greet(name) {
   return `Hello, ${name}! 👋`;
 }
 console.log(greet("world"));
+
