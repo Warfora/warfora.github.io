@@ -28,12 +28,10 @@ Check out these parrot pictures:
 
 ---
 
-## Code Sample
+## ✅ Task List
 
-```javascript
-// Simple greeting function
-function greet(name) {
-  return `Hello, ${name}! 👋`;
-}
-console.log(greet("world"));
+- [x] Write Markdown content  
+- [x] Add images  
+- [ ] Get a grade 
 
+---
